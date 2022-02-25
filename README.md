@@ -1,3 +1,7 @@
+# BTSdle
+
+Forked from https://github.com/cwackerfuss/react-wordle !
+
 # React Wordle
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
