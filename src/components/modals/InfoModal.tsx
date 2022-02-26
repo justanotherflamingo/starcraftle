@@ -62,7 +62,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         love.{' '}
         Check out the{' '}
         <a
-          href="https://github.com/judytuna/btsdle/"
+          href="https://github.com/judytuna/btsdle/pull/1/files"
           className="underline font-bold"
         >
           Starcraftle code here
